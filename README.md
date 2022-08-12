@@ -20,9 +20,7 @@ Skills: REACT / JS / HTML / CSS | DJANGO / SQL / MONGO DB | PYTHON / MATPLOTLIB 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=techiehkr)  
 
-![GitHub metrics](https://metrics.lecoq.io/techiehkr)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=techiehkr)  
+  
 
 ![Profile views](https://gpvc.arturio.dev/techiehkr)  
 
