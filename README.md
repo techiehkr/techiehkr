@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as freelancer
+- 👨🏻‍🎓 I have done projects on ML,Android Apps,games(unreal),Data science,Website (full stack),Hacking tools,IOT
+- 🌱 I’m currently learning on web3
+- 💬 Ask me about love to learn new thing and research on new stuff
+- 📫 How to reach me: discord [Techie#7588] instagram Link to [@t.e.c.h.i.e] (https://www.instagram.com/t.e.c.h.i.e/) 
+- 😄 I'm here to solve problem on varius technology learn it solve it
+
+
 <!--
 **techiehkr/techiehkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
