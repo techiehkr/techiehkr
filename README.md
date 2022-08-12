@@ -16,7 +16,7 @@ Skills: REACT / JS / HTML / CSS | DJANGO / SQL / MONGO DB | MATPLOTLIB / PANDAS 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=techiehkr&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techiehkr)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=techiehkr&show_icons=true&count_private=true)  
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=techiehkr)  
 
