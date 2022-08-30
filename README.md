@@ -1,12 +1,15 @@
 
 ### Hi there 👋, my name is Techie
 #### I am Freelance developer
+
+
+- 🔭 I’m currently working on AI AND WEB3  
+- 🌱 I’m currently learning WEB 3  
+
 As a developer i believe every problem have solution and i am here to do that on various technology 
 
 Skills: REACT / JS / HTML / CSS | DJANGO / SQL / MONGO DB | PYTHON / MATPLOTLIB / PANDAS / NUMPY / SCIPY / PYTORCH | KOTLIN 
 
-- 🔭 I’m currently working on AI AND WEB3  
-- 🌱 I’m currently learning WEB 3 
 
   
 
